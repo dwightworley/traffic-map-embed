@@ -5,6 +5,8 @@ Easily create embeddable Google traffic maps for blogs and websites.
 
 This is an easy solution for news organizations and others to quickly create embeddable traffic maps to display on their blogs and websites. This is useful during traffic accidents, tie-ups or severe weather to show traffic congestion. It builds on the excellent work of Mike Dalisay at the codeofaninja.com blog and uses code from his Google Maps Geocoding for PHP tutorial at https://www.codeofaninja.com/2014/06/google-maps-geocoding-example-php.html.
 
+embedmap.php is the primary file. embedmap_display.php is just used for the iframe.
+
 MY CHANGES/ADDITIONS: 
 
 I added:
