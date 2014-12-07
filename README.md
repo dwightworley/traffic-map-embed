@@ -9,7 +9,7 @@ embedmap.php is the primary file. embedmap_display.php is just used for the ifra
 
 <b>LIVE DEMO</b>: http://www.dwightworley.net/projectexamples/traffic_embed/embedmap.php
 
-MY CHANGES/ADDITIONS: 
+<b>MY CHANGES/ADDITIONS:</b> 
 
 I added:
 
@@ -24,10 +24,10 @@ I changed:
 Removed the marker from the map.
 Changed the form collection method from POST to GET. Since a link is created from the address and zoom level it’s useful to be able to see the values in the address bar.
 
-NOTES: Google places rate limits on its free maps product. If you are going to use this on a website with a high volume of traffic, you will want to update the code to use your API key to ensure you aren’t cut off.
+<b>NOTES:</b> Google places rate limits on its free maps product. If you are going to use this on a website with a high volume of traffic, you will want to update the code to use your API key to ensure you aren’t cut off.
 
 This is not meant for external use by readers or visitors to your website. The purpose is to produce an iframe link of a traffic map that you can add to your website or blog.
 
 I created this for a former employer and also built a version that uses traffic cameras in some New York, New Jersey and Connecticut locations. If you’re interested in viewing with traffic cameras in those areas, you can take a look at that page and its page source: http://data.lohud.com/embedcams.php.
 
-Also, it is advised that you copy these files to your server and then change the host domain (http://www.dwightworley.net) to your personal domain. While you are free to use it as is, if multiple people do so you are likely to hit any rate limits sooner since all requests are coming from a single domain.
+Also, you are advised to upload the files to your server and add your domain name where indicated. While you are free to use it on my domain, if many people do so you are likely to hit any rate limits sooner since all requests are coming from a single domain.
