@@ -31,3 +31,5 @@ This is not meant for external use by readers or visitors to your website. The p
 I created this for a former employer and also built a version that uses traffic cameras in some New York, New Jersey and Connecticut locations. If you’re interested in viewing with traffic cameras in those areas, you can take a look at that page and its page source: http://data.lohud.com/embedcams.php.
 
 Also, you are advised to upload the files to your server and add your domain name where indicated. While you are free to use it on my domain, if many people do so you are likely to hit any rate limits sooner since all requests are coming from a single domain.
+
+If you have any questions you can reach me on Twitter: http://www.twitter.com/dwightsnews.
